@@ -10,7 +10,7 @@ At a time when I was doing weekly PSIO installs I designed some new switchboard 
 
 ## Version History
 
-PSIO Switchboard PU-8 v1 - 23/11/2020
-PSIO Switchboard PU-18 v1 - 23/11/2020
-PSIO Switchboard PU-20 v1 - 23/11/2020
-PSIO Switchboard PU-22 v1 - 23/11/2020
+- PSIO Switchboard PU-8 v1 - 23/11/2020
+- PSIO Switchboard PU-18 v1 - 23/11/2020
+- PSIO Switchboard PU-20 v1 - 23/11/2020
+- PSIO Switchboard PU-22 v1 - 23/11/2020
