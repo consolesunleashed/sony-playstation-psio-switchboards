@@ -2,7 +2,7 @@
 
 My set of PSIO switchboard designed to make installs cleaner than the supplied switchboard.
 
-# Why?
+## Why?
 
 At a time when I was doing weekly PSIO installs I designed some new switchboard to make installs cleaner in all revisions. Somewhat redundant now SIO-XS exists. I am including them here as a curiosity.
 
