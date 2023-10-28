@@ -1,0 +1,5 @@
+Designation,Part,MPN,Value,Case/Size,Amount
+,Quad SPST Analog Switch,74HC4066,,SOIC-14,1
+C1,Capacitor,,0.1uF / 25V,0803,1
+R2,Resistor,,10Kilohm,0803,3
+R1,Resistor,,47Kilohm,0803,1
